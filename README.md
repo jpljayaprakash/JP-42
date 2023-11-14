@@ -70,7 +70,7 @@
 - [ex02: ft_ultimate_range]- Return the Length of a Range
 - [ex03: ft_strjoin]- Join Two Strings Together
 
-
+RUSH : All the following are group projects
 # Rush 00
 
 In this project, we are tasked with creating a program that displays specific patterns based on the input parameters.
@@ -81,14 +81,14 @@ Allowed functions : write
 
 # Rush 01
 
-skyscrapper solver: Given a map of 4x4, place boxes of height 1 to 4 on each available square in a way
+Skyscrapper sudoku: Given a map of 4x4, place boxes of height 1 to 4 on each available square in a way
 that every row and column sees the correct number of boxes from each the possible
 points of view (left/right for rows, up/down for columns)
 
 
 # Rush 02
 
-In this project, we need to create a program that takes a number as argument and converts it to its written letters value.
+Number to string coverter upto undecillion. In this project, we need to create a program that takes a number as argument and converts it to its written letters value.
 Files to turn in : Makefile and all the necessary files
 Allowed functions : write, malloc, free, open, read, close
 
